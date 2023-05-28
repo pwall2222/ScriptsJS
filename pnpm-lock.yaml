@@ -2,9 +2,11 @@ lockfileVersion: 5.4
 
 specifiers:
   eslint: ^8.41.0
+  eslint-config-greasemonkey: ^1.0.1
 
 devDependencies:
   eslint: 8.41.0
+  eslint-config-greasemonkey: 1.0.1
 
 packages:
 
@@ -199,6 +201,10 @@ packages:
   /escape-string-regexp/4.0.0:
     resolution: {integrity: sha512-TtpcNJ3XAzx3Gq8sWRzJaVajRs0uVxA2YAkdb1jm2YkPz4G6egUFAyA3n5vtEIZefPk5Wa4UXbKuS5fKkJWdgA==}
     engines: {node: '>=10'}
+    dev: true
+
+  /eslint-config-greasemonkey/1.0.1:
+    resolution: {integrity: sha512-WBkAOdKNzofYQZtQU9K/ML5VxloKkmKo26+rv8hfTF2OkIzFriq87eBlVDkVdcepVEWbvDlEo6Tn+gQe+eKjGw==}
     dev: true
 
   /eslint-scope/7.2.0:
