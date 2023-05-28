@@ -1,0 +1,7 @@
+{
+	"devDependencies": {
+		"eslint": "^8.41.0"
+	},
+	"author": "PWall",
+	"license": "GPL-3.0"
+}
