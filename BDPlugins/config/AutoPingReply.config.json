@@ -1,0 +1,38 @@
+{
+    "settings": {
+        "defaultPing": true,
+        "guildBlackList": [],
+        "userBlakcList": [],
+        "userNeverPing": [],
+        "userAlwaysPing": [],
+        "namePing": [
+            "🔔",
+            "🛎"
+        ],
+        "namePingDisable": [
+            "no pings"
+        ],
+        "guildSettings": {
+            "": {
+                "rolePing": [],
+                "rolePingDisable": []
+            },
+            "837579216001695744": {
+                "rolePing": [
+                    "885185724188622899"
+                ],
+                "rolePingDisable": [
+                    "885185652847693854",
+                    "885185577354424361"
+                ]
+            },
+            "805906453982347354": {
+                "rolePing": [],
+                "rolePingDisable": [
+                    "858536871043137576",
+                    "858536923978793011"
+                ]
+            }
+        }
+    }
+}
