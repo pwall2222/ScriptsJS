@@ -3,6 +3,7 @@
  * @description Replies with ping or not
  * @version 0.0.1
  * @author PWall
+ * @updateUrl https://raw.githubusercontent.com/pwall2222/ScriptsJS/main/BDPlugins/AutoPingReply.plugin.js
  */
 
 module.exports = class AutoPingReply {
